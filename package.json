@@ -2,5 +2,9 @@
     "name": "hanabi-crypt",
     "version": "0.0.1",
     "description": "An Innovating Data Crypting Engine.",
-    "main": "index.js"
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hanabi-Corporation/Crypt.git"
+    }
 }

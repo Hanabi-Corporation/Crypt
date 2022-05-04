@@ -1,1 +1,1 @@
-console.log("Crypt is Working.");
+console.log("Crypt is Working. [Development Build]");
