@@ -1,0 +1,1 @@
+console.log("Crypt is Working.");
