@@ -6,5 +6,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Hanabi-Corporation/Crypt.git"
+    },
+    "dependencies": {
+        "hanabi-crypt": "^0.0.1"
     }
 }
